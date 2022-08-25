@@ -10,15 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Fernanda Macieira
+Ian Amaral 
+Júlio Lustosa
+Mislene Tavares
+Paulo Vitor
+Tiago
 
 ## Orientador
 
-* Nome completo do professor 1
-
+Will Ricardo Dos Santos Machado
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
