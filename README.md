@@ -9,12 +9,12 @@ Análise e desenvolvimento De Sistemas
 Aplicação para suporte a vendas de passagens de pacotes de turismo terrestres. Que Seje capaz de efetuar a venda pelo aplicativo, reservando as passagens dos locais desejados pelos clientes,bem como também,reservando os acentos dos ônibus.
 ## Integrantes
 
- >Fernanda Macieira
- >Ian Amaral 
- >Júlio Lustosa
- >Mislene Tavares
- >Paulo Vitor
- >Tiago Miquéias
+ <br> Fernanda Macieira
+ <br> Ian Amaral 
+ <br> Júlio Lustosa
+ <br> Mislene Tavares
+ <br> Paulo Vitor
+ <br> Tiago Miquéias
 
 ## Orientador
 
