@@ -15,7 +15,7 @@ Ian Amaral
 Júlio Lustosa
 Mislene Tavares
 Paulo Vitor
-Tiago
+Tiago Miquéias
 
 ## Orientador
 
